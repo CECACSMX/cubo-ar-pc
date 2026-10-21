@@ -93,3 +93,12 @@ Ficha completa por pieza (origen, autor, licencia y trabajo aplicado) en
 - Imprimir mate mejor que brillante (los reflejos dificultan la detección).
 - `test-modelos.html`: página de prueba sin cámara que carga los 10 GLB de los cubos 1
   y 2 en rejilla (útil para validar los modelos sin AR).
+
+## Licencia
+
+© 2026 Angel Ortiz. El código (visor, plantillas, scripts) y el contenido propio se publican con
+licencia MIT (ver `LICENSE`).
+
+Los modelos 3D y demás recursos de terceros **no** están incluidos en esta licencia: conservan la
+suya, tal como se detalla en `CREDITOS.md`. Las marcas que aparecen en las texturas pertenecen a
+sus titulares.
