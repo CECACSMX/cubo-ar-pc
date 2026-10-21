@@ -96,7 +96,8 @@ Ficha completa por pieza (origen, autor, licencia y trabajo aplicado) en
 
 ## Licencia
 
-© 2026 Angel Ortiz. El código (visor, plantillas, scripts) y el contenido propio se publican con
+© 2026 Angel Ortiz. Desarrollado con ayuda de IA (Claude, de Anthropic), bajo la dirección y
+revisión del autor. El código (visor, plantillas, scripts) y el contenido propio se publican con
 licencia MIT (ver `LICENSE`).
 
 Los modelos 3D y demás recursos de terceros **no** están incluidos en esta licencia: conservan la
